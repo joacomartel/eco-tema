@@ -1,0 +1,1 @@
+[29-May-2012 15:33:17] PHP Fatal error:  Call to undefined function  get_header() in /home1/herberts/public_html/eco/wp-content/themes/eco-tema/index.php on line 17
